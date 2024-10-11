@@ -1,0 +1,11 @@
+# root
+.vscode
+doc.txt
+
+# backend
+__pycache__
+myvenv
+
+# frontend
+node_modules
+.env
